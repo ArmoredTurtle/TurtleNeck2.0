@@ -23,3 +23,13 @@ The purpose of a toolhead buffer such as TN2 is to compensate for mismatched rot
 | M3x10 FHCS | 2 |
 | M3 Heatset insters | 4  |
 
+Pins of note:
+USB coms - PA11/PA12
+Trailing hall effect sensor - PB2
+Advance hall effect sensor - PB1
+Endstop 1 - PB5
+Endstop 2 - PB6
+Endstop 3 - PB7
+Endstop 4 - PB8
+Endstop 5 - PB9
+RGB (neopixel) - PD3
