@@ -25,6 +25,9 @@ TN2 uses JST-PH connectors for all of its expansion.
 | M3 Heatset insters | 4  |
 | 1mm Felt adhesive backed |~1x10mm X4 |
 
+
+![Screenshot (26)](https://github.com/user-attachments/assets/d03977c4-4cae-434a-9b56-7d4c53a156f4)
+
 #Pins of note#
 | Device | Pin |
 | ---------------- | ----- |
