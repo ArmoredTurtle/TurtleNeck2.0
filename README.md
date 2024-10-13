@@ -35,3 +35,5 @@ The purpose of a toolhead buffer such as TN2 is to compensate for mismatched rot
 | Endstop 4 | PB8 |
 | Endstop 5 | PB9 |
 | RGB (neopixel) | PD3 |
+
+![Schematic_TurtleNeck_2024-10-13](https://github.com/user-attachments/assets/c11a8c29-cd33-466f-b604-7e2d9ea658bc)
