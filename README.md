@@ -13,6 +13,8 @@ TN2 utilizes two hall effect sensors to dectect movement of the buffer before hi
 The purpose of a toolhead buffer such as TN2 is to compensate for mismatched rotation distances between a toolheads extruder and a direct drive AFC ("type 2 MMU" if you like calling them that...)
 TN2 uses JST-PH connectors for all of its expansion.
 
+[Build manual HERE](https://armoredturtle.xyz).
+
 #BOM#
 | Part  | QTY |
 | ------------- | ------------- |
