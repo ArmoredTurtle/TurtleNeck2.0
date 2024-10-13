@@ -11,3 +11,15 @@ It ustilizes an STM32G0B1 MCU over usb-c to operate. Making it a single cable ad
 
 TN2 utilizes two hall effect sensors to dectect movement of the buffer before hitting a hard stop in either direction. Adiddtionally on the PCB are 5 endstops ports that can be utilized for filament combiners or "hubs".
 The purpose of a toolhead buffer such as TN2 is to compensate for mismatched rotation distances between a toolheads extruder and a direct drive AFC ("type 2 MMU" if you like calling them that...)
+
+#BOM#
+| Part  | QTY |
+| ------------- | ------------- |
+| TN2 PCB | 1  |
+| 3x2mm magnet  | 1  |
+| M2.5x10 FHCS  | 1  |
+| ECAS04 bowden collet | 2  |
+| M3x8 SHCS | 4  |
+| M3x10 FHCS | 2 |
+| M3 Heatset insters | 4  |
+
