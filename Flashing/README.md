@@ -14,7 +14,7 @@ make menuconfig
 
 #
 <img width="490" alt="TN_Firmware" src="https://github.com/user-attachments/assets/060938bf-8d48-4d00-af47-611a78ab9f4a">
-
+#
 When config is complete type 'q' to exit then select 'Yes' to save the config
 type make clean followed by make to build the klipper firmware
 
