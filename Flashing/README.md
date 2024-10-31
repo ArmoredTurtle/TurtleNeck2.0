@@ -58,8 +58,6 @@ Plug this ID into the turtleneckv2.cfg in the serial section
 ## To Update Firmware
 ```
 cd ~/klipper
-```
-```
 make menuconfig
 ```
 ```
