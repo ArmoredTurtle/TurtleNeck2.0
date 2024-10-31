@@ -2,6 +2,8 @@ TN2 Flashing Steps
 --------------------------------
 ```
 cd ~/klipper
+```
+```
 make menuconfig
 ```
 [*] Enable extra low-level configuration options
