@@ -28,7 +28,8 @@ TN2 uses JST-PH connectors for all of its expansion.
 | 1mm Felt adhesive backed |~1x10mm X4 |
 
 
-![Screenshot (26)](https://github.com/user-attachments/assets/d03977c4-4cae-434a-9b56-7d4c53a156f4)
+![TN2 0 Pins](https://github.com/user-attachments/assets/540bb77b-cc90-49a5-84fc-ba7ac245fbd7)
+
 
 #Pins of note#
 | Device | Pin |
