@@ -1,8 +1,9 @@
 TN2 Flashing Steps
 --------------------------------
+```
 cd ~/klipper
 make menuconfig
-
+```
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (STMicroelectronics STM32) --->
     Processor model (STM32G0B1) --->
@@ -43,7 +44,7 @@ To update firmware
 cd ~/klipper
 make menuconfig
 ```
-```
+
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (STMicroelectronics STM32) --->
     Processor model (STM32G0B1) --->
@@ -52,7 +53,7 @@ make menuconfig
     Communication interface (USB (on PA11/PA12)) --->
     USB ids --->
 ()  GPIO pins to set at micro-controller startup
-```
+
 When config is complete type 'q' to exit then select 'Yes' to save the config
 type make clean followed by make to build the klipper firmware
 
