@@ -35,8 +35,8 @@ TN2 uses JST-PH connectors for all of its expansion.
 | Device | Pin |
 | ---------------- | ----- |
 | USB coms | PA11/PA12 |
-| Trailing hall effect sensor | PB2 |
-| Advance hall effect sensor | PB1 |
+| Trailing hall effect sensor | PB1 |
+| Advance hall effect sensor | PB2 |
 | Endstop 1 | PB5 |
 | Endstop 2 | PB6 |
 | Endstop 3 | PB7 |
